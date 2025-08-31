@@ -1,4 +1,4 @@
-# 📊 NextMind  
+# 📊 NextMind Portfolio
 
 A React + Tailwind CSS project that displays posts, portfolios, and NAV reports from Excel data with interactive charts and a sidebar navigation layout.  
 
@@ -78,7 +78,9 @@ This project is ready for **Netlify**.
 ---
 
 ## 📷 Screenshots  
-*(Add screenshots of NAV chart, posts, sidebar UI etc.)*  
+![Screenshot 1](docs/one.png)  
+![Screenshot 2](docs/two.png)  
+![Screenshot 3](docs/three.png)
 
 ---
 
