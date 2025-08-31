@@ -73,7 +73,8 @@ This project is ready for **Netlify**.
    ```
    dist
    ```  
-5. Deploy 🚀  
+5. Deploy 🚀
+   Currently hosted on - [https://nextmind-portfolio.netlify.app/](url)
 
 ---
 
